@@ -67,6 +67,11 @@ body {
     height: 17px;
 }
 
+.customImg1 {
+    width: 45px;
+    height: 45px;
+}
+
 .customButtom {
     height: 40px;
     border-top: .1px solid #9494944f;
